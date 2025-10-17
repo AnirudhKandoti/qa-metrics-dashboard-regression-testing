@@ -1,0 +1,11 @@
+pipeline,name,ts,value
+webapp,tests.pass_rate,2025-10-10T10:00:00Z,0.92
+webapp,tests.pass_rate,2025-10-11T10:00:00Z,0.94
+webapp,tests.pass_rate,2025-10-12T10:00:00Z,0.93
+webapp,tests.pass_rate,2025-10-13T10:00:00Z,0.95
+webapp,tests.pass_rate,2025-10-14T10:00:00Z,0.61
+webapp,tests.duration_min,2025-10-10T10:00:00Z,14
+webapp,tests.duration_min,2025-10-11T10:00:00Z,13
+webapp,tests.duration_min,2025-10-12T10:00:00Z,12
+webapp,tests.duration_min,2025-10-13T10:00:00Z,12
+webapp,tests.duration_min,2025-10-14T10:00:00Z,33
